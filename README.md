@@ -19,6 +19,13 @@ pip --version
 python src/main.py
 ```
 
+### App Demo:
+
+> Run the app on your pc.
+```bash
+python src/main.py
+```
+
 ![img](./demo/demo1.png)
 
 
