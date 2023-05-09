@@ -1,6 +1,6 @@
 # trello-clone-flet-app
 
-Trello Clone Flutter App built using Python and ft.[flet](https://flet.dev/). 
+Trello Clone Flutter App built using Python (ft. [flet](https://flet.dev/)). 
 
 
 > Check Python v3+ & Pip v3+ is installed?
